@@ -1,0 +1,56 @@
+/*General Styles*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10;
+    padding: 0;
+    background-color: lightblue;
+    color: #333;
+}
+
+/* Header Styles */
+.header {
+    background-color: lightblue;
+    color: rgb(216, 125, 140);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Subheader Styles */
+.subheader {
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Section 1 Style */
+.section1 {
+    background-color: lightblue;
+    color: #0056b3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #0056b3;
+}
+
+/* Section 2 Style */
+.section2 {
+    background-color: lightblue;
+    color: #0056b3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #0056b3;
+}
+ 
+/* Section 3 Style */
+.section3 {
+    background-color: lightblue;
+    color: #0056b3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #0056b3;
+}
